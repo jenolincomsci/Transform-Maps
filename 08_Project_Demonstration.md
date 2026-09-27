@@ -67,7 +67,7 @@ The final output will show the successfully transformed records available in the
 
 Google Drive Demo Video:
 
-https://drive.google.com/file/d/1vkbeFrXIFIj7cmCm3f8HqEl8RTZEX2qq/view?usp=drivesdk
+https://drive.google.com/file/d/1gih-HMaJ1oVovlxuI0zDbFIMNDpQ-i-g/view?usp=drivesdk
 
 ## 8. Conclusion
 
